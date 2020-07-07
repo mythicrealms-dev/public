@@ -1,4 +1,3 @@
-Welcome to Mythic Realms RPG
 # Hello and welcome to the MythicRealms RPG!
 MythicRealms RPG is an upcoming MMORPG-like Minecraft server. Follow your path of adventurer, live the life you want to roleplay, own property or whole town, prosper together with fellow adventurers, create and be selected as Featured Artist on the server website.
 
