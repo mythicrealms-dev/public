@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Mythic Realms RPG
+description: An upcoming fantsy set MMORPG based on Minecraft Java Edition & PaperMC Server instance.
+logo: logo.png
+show_downloads: true
