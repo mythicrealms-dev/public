@@ -1,6 +1,6 @@
 <html>
   <head>
-  <title>Welcome to Mythic Realms RPG</title>
+Welcome to Mythic Realms RPG
   </head>
   <body>
     <h1>Hello and welcome to the MythicRealms RPG!</h1>
