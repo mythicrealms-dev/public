@@ -14,8 +14,6 @@ Welcome to Mythic Realms RPG
       <li>Join us on <a href=https://www.facebook.com/pages/Mythic-Realms/446181652159138>Facebook</a></li>
       <li>Latest updates for media and art at <a href=https://imgur.com/user/MythicRealmsRPG>Imgur</a></li>
     </ul>
-
-Copyright ©2016-2020 MYTHICREALMSRPG.COM
   </body>
   <footer>
 &copy; Copyright 2020 MYTHICREALMSRPG.COM
