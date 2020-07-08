@@ -4,12 +4,12 @@ Here you can find public available media, text and files for the upcoming Minecr
 
 If you would like to contribute towards the project please use the link below to get an application form!
 Are you a follower of the craft of words and sentences to drive the reader? Or you use the craft of code? Perhaps an ingame alteration is your path?
-Meet our teams!
+Meet our teams, choose what you are willing to create and [apply here!](https://forms.gle/KAprENxFE8PnfaUKA)
 
 ## Lore Team
 Here we use words and sentences as sharp weapons and plated armor, we create the very fabric of the narrative, enjoying flow of the ideas, detailing locations with dialogues opportunities and quests and script those NPC!
 Join us for positions:
-- D&I Writer/Scripter - You will be at very logic of quests, you'll be scripting NPC with close-range dialogues, custom UI texts, creating custom artifacts and overall work on dungeons locations and immersivness of the world through texts. 
+- D&I Writer/Scripter - You will be at very logic of quests, you'll be scripting NPC with close-range dialogues, custom UI texts, creating custom artifacts and overall work on dungeons locations and immersivness of the world through texts and images, concept arts and sketches! 
 - Lore Writer - You will be the one who will assess, reproduce and distill text for Mythic Realms and create your very own literature in-game and on Wiki page. The best part of it: you will be the only group that will know what's going to happen next in this game through texts.
 - Website Content Creator - This is very important role! If you like to write small Journal/Blogger posts about what's going on, spread news and actively support the server, this position is for you!
 
